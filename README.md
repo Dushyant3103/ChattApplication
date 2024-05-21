@@ -81,6 +81,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-If you have any questions or suggestions, feel free to contact me at dushyantsinghvishani@gmail.com.
+If you have any questions or suggestions, feel free to contact me at dushyantsinghvishani@gmail.com. or dushyantsinghrajput946@gmail.com
 
 
