@@ -18,7 +18,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/DesktopChatApplication.git
+git clone[ https://github.com/yourusername/DesktopChatApplication.git](https://github.com/Dushyant3103/ChattApplication)
 cd DesktopChatApplication
 Compile the code:
 
