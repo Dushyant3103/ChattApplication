@@ -1,15 +1,14 @@
 Desktop Chat Application
 This project is a simple desktop chat application developed using Java Swing, AWT, and Socket Programming. The application allows multiple users to communicate with each other in real-time over a network.
-
 Features
-Real-time messaging between clients.
-User-friendly graphical interface using Java Swing and AWT.
-Supports multiple clients connecting to the server simultaneously.
-Displays online users.
-Notification for new messages.
+1.Real-time messaging between clients.
+2.User-friendly graphical interface using Java Swing and AWT.
+3.Supports multiple clients connecting to the server simultaneously.
+
 Technologies Used
-Java Swing and AWT for GUI components.
-Java Socket Programming for network communication.
+1.Java Swing and AWT for GUI components.
+2.Java Socket Programming for network communication.
+
 Getting Started
 Prerequisites
 To run this application, you need to have Java Development Kit (JDK) installed on your system. You can download it from Oracle's official website.
@@ -82,6 +81,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-If you have any questions or suggestions, feel free to contact me at your.email@example.com.
+If you have any questions or suggestions, feel free to contact me at dushyantsinghvishani@gmail.com.
 
 
